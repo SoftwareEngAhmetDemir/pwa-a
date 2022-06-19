@@ -1,0 +1,18 @@
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 900px) {
+  .navbar {
+    display: block !important;
+    width: 300px;
+    position: fixed !important;
+    height: 100%;
+    text-align: center;
+  }
+  .navbar .navbar-toggler {
+    position: relative;
+    left: 100px;
+  }
+  .navbar :target {
+    display: none;
+  }
+}
+/*# sourceMappingURL=style.css.map */

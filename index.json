@@ -1,0 +1,170 @@
+{result: true, data: {contComplete: null,…},…}
+data: {contComplete: null,…}
+contComplete: null
+containerMovements: [{,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…}, {,…},…]
+0: {,…}
+containerProperties: {containerNo: "CAAU6592884", type: "40HC' 40 ft High Cube Dry Cont, 40x9.6", weight: " ", vgm: " ",…}
+containerNo: "CAAU6592884"
+lastEventCode: "GIE"
+lastEventName: "GATE IN EMPTY"
+movements: [{shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…},…]
+0: {shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…}
+eventCode: "GOE"
+eventDate: "Jan.22.2022"
+eventLocation: "NMT"
+eventName: "GATE OUT EMPTY"
+shipName: "SASKIA A"
+1: {shipName: "SASKIA A", eventCode: "GIF", eventName: "GATE IN FULL", eventDate: "Jan.28.2022",…}
+eventCode: "GIF"
+eventDate: "Jan.28.2022"
+eventLocation: "EVYAPPORT"
+eventName: "GATE IN FULL"
+shipName: "SASKIA A"
+2: {shipName: "SASKIA A", eventCode: "LDF", eventName: "FULL LOAD", eventDate: "Feb.05.2022",…}
+eventCode: "LDF"
+eventDate: "Feb.05.2022"
+eventLocation: "EVYAPPORT"
+eventName: "FULL LOAD"
+shipName: "SASKIA A"
+3: {shipName: "SASKIA A", eventCode: "DCF", eventName: "FULL UNLOAD", eventDate: "Feb.15.2022",…}
+eventCode: "DCF"
+eventDate: "Feb.15.2022"
+eventLocation: "Alexandria (ACCHCO) OLD PORT"
+eventName: "FULL UNLOAD"
+shipName: "SASKIA A"
+4: {shipName: "SASKIA A", eventCode: "GOF", eventName: "GATE OUT FULL", eventDate: "Mar.31.2022",…}
+eventCode: "GOF"
+eventDate: "Mar.31.2022"
+eventLocation: "Alexandria (ACCHCO) OLD PORT"
+eventName: "GATE OUT FULL"
+shipName: "SASKIA A"
+5: {shipName: "SASKIA A", eventCode: "GIE", eventName: "GATE IN EMPTY", eventDate: "Apr.03.2022",…}
+eventCode: "GIE"
+eventDate: "Apr.03.2022"
+eventLocation: "ALY GLOBAL AD LOGI"
+eventName: "GATE IN EMPTY"
+shipName: "SASKIA A"
+oog: " "
+packingGroup: "--"
+reefer: "0"
+reeferUom: ""
+type: "40HC' 40 ft High Cube Dry Cont, 40x9.6"
+vgm: " "
+weight: " "
+1: {,…}
+containerProperties: {containerNo: "ICOU4013010", type: "40DC' 40 ft Standard Cont", weight: " ", vgm: " ",…}
+containerNo: "ICOU4013010"
+lastEventCode: "GIE"
+lastEventName: "GATE IN EMPTY"
+movements: [{shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…},…]
+0: {shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…}
+eventCode: "GOE"
+eventDate: "Jan.22.2022"
+eventLocation: "NMT"
+eventName: "GATE OUT EMPTY"
+shipName: "SASKIA A"
+1: {shipName: "SASKIA A", eventCode: "GIF", eventName: "GATE IN FULL", eventDate: "Jan.28.2022",…}
+eventCode: "GIF"
+eventDate: "Jan.28.2022"
+eventLocation: "EVYAPPORT"
+eventName: "GATE IN FULL"
+shipName: "SASKIA A"
+2: {shipName: "SASKIA A", eventCode: "LDF", eventName: "FULL LOAD", eventDate: "Feb.05.2022",…}
+3: {shipName: "SASKIA A", eventCode: "DCF", eventName: "FULL UNLOAD", eventDate: "Feb.15.2022",…}
+4: {shipName: "SASKIA A", eventCode: "GOF", eventName: "GATE OUT FULL", eventDate: "Mar.31.2022",…}
+eventCode: "GOF"
+eventDate: "Mar.31.2022"
+eventLocation: "Alexandria (ACCHCO) OLD PORT"
+eventName: "GATE OUT FULL"
+shipName: "SASKIA A"
+5: {shipName: "SASKIA A", eventCode: "GIE", eventName: "GATE IN EMPTY", eventDate: "Apr.05.2022",…}
+oog: " M"
+packingGroup: "--"
+reefer: "0"
+reeferUom: ""
+type: "40DC' 40 ft Standard Cont"
+vgm: " "
+weight: " "
+2: {,…}
+containerProperties: {containerNo: "TRKU4034740", type: "40DC' 40 ft Standard Cont", weight: " ", vgm: " ",…}
+containerNo: "TRKU4034740"
+lastEventCode: "GIE"
+lastEventName: "GATE IN EMPTY"
+movements: [{shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…},…]
+0: {shipName: "SASKIA A", eventCode: "GOE", eventName: "GATE OUT EMPTY", eventDate: "Jan.22.2022",…}
+eventCode: "GOE"
+eventDate: "Jan.22.2022"
+eventLocation: "NMT"
+eventName: "GATE OUT EMPTY"
+shipName: "SASKIA A"
+1: {shipName: "SASKIA A", eventCode: "GIF", eventName: "GATE IN FULL", eventDate: "Jan.26.2022",…}
+2: {shipName: "SASKIA A", eventCode: "LDF", eventName: "FULL LOAD", eventDate: "Feb.05.2022",…}
+3: {shipName: "SASKIA A", eventCode: "DCF", eventName: "FULL UNLOAD", eventDate: "Feb.15.2022",…}
+4: {shipName: "SASKIA A", eventCode: "GOF", eventName: "GATE OUT FULL", eventDate: "Mar.31.2022",…}
+5: {shipName: "SASKIA A", eventCode: "GIE", eventName: "GATE IN EMPTY", eventDate: "Apr.03.2022",…}
+oog: " "
+packingGroup: "--"
+reefer: "0"
+reeferUom: ""
+type: "40DC' 40 ft Standard Cont"
+vgm: " "
+weight: " "
+3: {,…}
+containerProperties: {containerNo: "TRKU4041374", type: "40DC' 40 ft Standard Cont", weight: " ", vgm: " ",…}
+4: {,…}
+5: {,…}
+6: {,…}
+7: {,…}
+8: {,…}
+9: {,…}
+10: {,…}
+11: {,…}
+12: {,…}
+13: {,…}
+14: {,…}
+15: {,…}
+16: {,…}
+17: {,…}
+18: {,…}
+19: {,…}
+containerSteps: [{eventCode: "BK", eventDescription: "Booked", eventDate: "Jan.21.2022", eventStatus: "X",…},…]
+0: {eventCode: "BK", eventDescription: "Booked", eventDate: "Jan.21.2022", eventStatus: "X",…}
+eventCode: "BK"
+eventDate: "Jan.21.2022"
+eventDateEnd: ""
+eventDescription: "Booked"
+eventStatus: "X"
+isStatusDark: false
+1: {eventCode: "GIF", eventDescription: "Received Full", eventDate: "Jan.26.2022", eventStatus: "X",…}
+eventCode: "GIF"
+eventDate: "Jan.26.2022"
+eventDateEnd: ""
+eventDescription: "Received Full"
+eventStatus: "X"
+isStatusDark: false
+2: {eventCode: "LDF", eventDescription: "Sailed", eventDate: "Feb.05.2022", eventStatus: "X",…}
+3: {eventCode: "DCF", eventDescription: "Arrived", eventDate: "Feb.15.2022", eventStatus: "X",…}
+4: {eventCode: "GOF", eventDescription: "Dispatch Full", eventDate: "Apr.01.2022", eventStatus: "X",…}
+5: {eventCode: "GIE", eventDescription: "Received Empty", eventDate: "Apr.01.2022", eventStatus: "X",…}
+shipmentInformation: {pol: "EVYAPPORT", polDepartureDate: "Feb.05.2022", polEstDate: "Feb.04.2022", shipName: "",…}
+pod: "Alexandria (ACCHCO) OLD PORT"
+podArrivalDate: "Feb.15.2022"
+podEstDate: "Feb.15.2022"
+podShip: "SASKIA A"
+podVoyage: "0EL0NW1TK"
+pol: "EVYAPPORT"
+polDepartureDate: "Feb.05.2022"
+polEstDate: "Feb.04.2022"
+polShip: "SASKIA A"
+polVoyage: "0EL0NW1TK"
+pts: ""
+ptsArrivalDate: ""
+ptsEstDate: ""
+ptsShip: ""
+ptsVoyage: ""
+shipName: ""
+voyage: ""
+error: {httpStatusCode: 0, errorMessages: null, isError: false}
+isError: false
+result: true
+validationErrors: []
